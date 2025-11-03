@@ -8,7 +8,9 @@
 <table>
   <tr>
     <td align="center" width="33%" style="padding:10px;">
-      <img src="media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+      <a href="https://youtu.be/MLkvGB8ZZIk" target="_blank">
+        <img src="media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+      </a>
       <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
         “Bitbash is a top-tier automation partner — innovative, reliable, and dedicated to delivering real results every time.”
       </p>
@@ -18,7 +20,9 @@
       </p>
     </td>
     <td align="center" width="33%" style="padding:10px;">
-      <img src="media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
+        <img src="media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+      </a>
       <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
         “Bitbash delivers outstanding quality, speed, and professionalism — truly a team you can rely on.”
       </p>
@@ -28,7 +32,9 @@
       </p>
     </td>
     <td align="center" width="33%" style="padding:10px;">
-      <img src="media/review3.gif" alt="Review 3" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
+        <img src="media/review3.gif" alt="Review 3" width="35%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+      </a>
       <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
         “Exceptional results, clear communication, and flawless delivery — Bitbash nailed it.”
       </p>
@@ -39,3 +45,4 @@
     </td>
   </tr>
 </table>
+
