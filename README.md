@@ -51,36 +51,38 @@ This project enables automated extraction of news articles and metadata from ABC
     ]
 ---
 ## Directory Structure Tree
+```
     abc-news-scraper/
-    ├── src/
-    │   ├── main.py
-    │   ├── extractors/
-    │   │   ├── article_parser.py
-    │   │   ├── metadata_cleaner.py
-    │   │   └── utils_time.py
-    │   ├── outputs/
-    │   │   ├── exporter_json.py
-    │   │   ├── exporter_csv.py
-    │   │   └── exporter_excel.py
-    │   └── config/
-    │       └── settings.example.json
-    ├── data/
-    │   ├── inputs.sample.txt
-    │   ├── samples/
-    │   │   ├── abc_sample1.json
-    │   │   └── abc_sample2.json
-    │   └── logs/
-    │       └── scraper.log
-    ├── docs/
-    │   ├── usage.md
-    │   └── api_reference.md
-    ├── tests/
-    │   ├── test_parser.py
-    │   ├── test_exporter.py
-    │   └── test_config.py
-    ├── requirements.txt
-    ├── LICENSE
-    └── README.md
+        ├── src/
+        │   ├── main.py
+        │   ├── extractors/
+        │   │   ├── article_parser.py
+        │   │   ├── metadata_cleaner.py
+        │   │   └── utils_time.py
+        │   ├── outputs/
+        │   │   ├── exporter_json.py
+        │   │   ├── exporter_csv.py
+        │   │   └── exporter_excel.py
+        │   └── config/
+        │       └── settings.example.json
+        ├── data/
+        │   ├── inputs.sample.txt
+        │   ├── samples/
+        │   │   ├── abc_sample1.json
+        │   │   └── abc_sample2.json
+        │   └── logs/
+        │       └── scraper.log
+        ├── docs/
+        │   ├── usage.md
+        │   └── api_reference.md
+        ├── tests/
+        │   ├── test_parser.py
+        │   ├── test_exporter.py
+        │   └── test_config.py
+        ├── requirements.txt
+        ├── LICENSE
+        └── README.md
+```
 ---
 ## Use Cases
 - **Researchers** gather reliable datasets of news articles to study media bias or misinformation trends.
